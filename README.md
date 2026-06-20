@@ -4,6 +4,8 @@
 
 ### 💙[Загрузить игру](https://github.com/Stepanova-Anna/The_Alien_Invasion_game/blob/main/game/dist/alien_invasion.exe)
 
+***Автор игры: Степанова Анна***
+
 ---
 
 ## 🌟 Что вас ждёт в игре
