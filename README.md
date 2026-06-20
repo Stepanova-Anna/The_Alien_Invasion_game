@@ -2,6 +2,8 @@
 
 **Alien Invasion** — это динамичная 2D-аркада, в которой вы управляете космическим кораблём и защищаете Землю от нашествия инопланетян! 👾
 
+### 💙[Загрузить игру](https://github.com/Stepanova-Anna/The_Alien_Invasion_game/blob/main/game/dist/alien_invasion.exe)
+
 ---
 
 ## 🌟 Что вас ждёт в игре
